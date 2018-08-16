@@ -7,12 +7,11 @@
 }
 .main h1{
   text-align: center;
-  font-weight: bold;
-  color: rgb (120, 25, 12);
+  color: #4E510F;
   font-family: 'Monoton', cursive, 'Russo One', sans-serif; 
 }
 .main h3{
-  color: rgb (120, 25, 12);
+  color: #4E510F;
   font-family: 'Permanent Marker', cursive, 'Russo One', sans-serif; 
 }
 .main p{
