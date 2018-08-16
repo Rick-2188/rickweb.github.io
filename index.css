@@ -1,6 +1,7 @@
 .background {
   background-image: url("./fondo4EM.jpg");
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 .navigation {
  background-color: aquamarine;
