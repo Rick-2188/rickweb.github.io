@@ -3,6 +3,7 @@
   color: red;
   background-color: blue;
   background-image: url("./macross-wallpapers.jpg");
+  background-size: cover;
 }
 .navigation {
  background-color: aquamarine;
