@@ -2,7 +2,8 @@
   font-family: Georgia, Verdana;
   color: red;
   background-color: blue;
+  background-image: url("./macross-wallpapers.jpg");
 }
 .navigation {
- background-color: aquamarine
+ background-color: aquamarine;
 }
