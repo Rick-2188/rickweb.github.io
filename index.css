@@ -12,9 +12,12 @@ header {
   z-index: 10;
 }
 
+.navigation img {
+  float: left;
+}
+
 .navigation {
   background-color: rgba(127, 219, 255, 0.562);
-  font-style: oblique;
   margin: 30px auto;
   padding: 0 20px;
   text-align: center;
@@ -22,9 +25,9 @@ header {
 
 .navigation li{
   display: inline-block;
-  width: 80px;
-  text-transform: uppercase;
-  font-size: medium;
+  width: 120px;
+  font-size: 16px;
+  font-family: 'Russo One', sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
 }
 
 .main {
@@ -45,8 +48,20 @@ header {
 .main p{
   color: #3B3020;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
 }
 
 footer {
   height: 100px;
+  background-color: rgba(127, 219, 255, 0.562);
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+footer li {
+  display: inline-block;
+  width: 80px;
+  font-size: 16px;
+  font-family: 'Russo One', sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
 }
