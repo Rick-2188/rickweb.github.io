@@ -1,5 +1,5 @@
 .background {
-  background-image: url("./macross-wallpapers.jpg");
+  background-image: url("./fondo4EM.jpg");
   background-size: cover;
 }
 .navigation {
@@ -10,7 +10,7 @@
   color: #4E510F;
   font-family: 'Monoton', cursive, 'Russo One', sans-serif; 
 }
-.main h3{
+.main h2{
   color: #4E510F;
   font-family: 'Permanent Marker', cursive, 'Russo One', sans-serif; 
 }
